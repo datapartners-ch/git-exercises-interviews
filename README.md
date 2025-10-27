@@ -1,8 +1,8 @@
 # Git & GitHub Exercise – Data Scientist Interview
 
-Please follow the instructions below to complete the Git & GitHub exercise.  
-
 ---
+
+## Level 1 — Core Git & GitHub Workflow
 
 ### Tasks
 1. Fork this repository to your GitHub account and clone your fork locally.  
@@ -12,7 +12,13 @@ Please follow the instructions below to complete the Git & GitHub exercise.
 5. Commit your changes with a clear, descriptive message.  
 6. Switch back to `main` and merge your branch (locally or via Pull Request).  
 7. Push your changes and open a Pull Request if you merged locally, or share your PR link if you merged via PR.
-8. Make sure you are on your feature branch:  
+
+---
+
+## Level 2 — Merge Conflict Resolution
+
+### Tasks
+
+1. Make sure you are on your feature branch:  
    ```bash
    git checkout feature/cleaning
-
