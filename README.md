@@ -6,7 +6,7 @@ Please follow the instructions below to complete the Git & GitHub exercise.
 
 ---
 
-## Level 1 — Core Git & GitHub Workflow (25–30 min)
+## Level 1 — Core Git & GitHub Workflow
 
 ### Objective
 Demonstrate basic fluency with Git branching, commits, .gitignore, and opening a Pull Request.
