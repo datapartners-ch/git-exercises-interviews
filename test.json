@@ -1,0 +1,10 @@
+{
+  "Name": "Mario",
+  "Surname": "Rossi",
+  "Age": "18",
+  "Skills": [
+    "genAI",
+    "python",
+    "git"
+  ]
+}
