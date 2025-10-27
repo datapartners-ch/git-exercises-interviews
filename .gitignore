@@ -1,0 +1,19 @@
+# Ignore data files
+*.csv
+*.tsv
+*.parquet
+data/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# OS/editor files
+.DS_Store
+.vscode/
