@@ -9,9 +9,8 @@
 2. Create a branch named `feature/cleaning`.  
 3. Add a notebook file: `notebooks/data_cleaning.ipynb` (it can be empty or include a single dummy cell).  
 4. Update `.gitignore` to exclude CSV files (if not already present).  
-5. Commit your changes with a clear, descriptive message.  
-6. Switch back to `main` and merge your branch (locally or via Pull Request).  
-7. Push your changes and open a Pull Request if you merged locally, or share your PR link if you merged via PR.
+5. Commit your changes with a clear, descriptive message.
+6. Open a pull request to merge your branch into the main.
 
 ---
 
@@ -19,6 +18,8 @@
 
 ### Tasks
 
-1. Make sure you are on your feature branch:  
-   ```bash
-   git checkout feature/cleaning
+1. Create a new branch named `conflicts`. 
+2. Modify the test.json file to create a conflict for the merge
+3. Open the pull request (it should not be automatically merged)
+4. Resolve the conflict
+5. Merge
