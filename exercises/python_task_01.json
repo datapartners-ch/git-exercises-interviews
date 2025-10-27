@@ -1,0 +1,24 @@
+{
+  "id": "python_task_01",
+  "title": "Squares of Even Numbers",
+  "instructions": [
+    "Write a Python function that receives a list of integers and returns a list with the squares of the even numbers, with no duplicates, sorted in ascending order.",
+    "You MUST write your solution as valid Python code inside the 'solution_code' string field.",
+    "Do NOT change any other field in this JSON.",
+    "Function signature to implement: squares_of_evens(nums: list[int]) -> list[int]",
+    "You may add a short demo (print) inside the same string, but keep the function definition clear.",
+    "Complexity hint: aim for O(n log n) or better."
+  ],
+  "examples": [
+    { "input": [1, 2, 2, 3, 4, 5], "expected_output": [4, 16] },
+    { "input": [0, -2, -2, 7, 8], "expected_output": [0, 4, 64] },
+    { "input": [], "expected_output": [] }
+  ],
+  "constraints": [
+    "Input list length can be up to 10^5.",
+    "Values can be negative or positive.",
+    "Return type must be a Python list of integers."
+  ],
+  "solution_code": "'''\\nPaste your Python solution below, as plain code.\\nImplement: squares_of_evens(nums: list[int]) -> list[int]\\nYou may include a short demo at the end (optional).\\n'''\\n\\n# def squares_of_evens(nums: list[int]) -> list[int]:\\n#     # your code here\\n#     pass\\n\\n# # Optional demo\\n# if __name__ == \"__main__\":\\n#     print(squares_of_evens([1, 2, 2, 3, 4, 5]))  # expected: [4, 16]"
+}
+
