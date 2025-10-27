@@ -3,7 +3,6 @@
 ## Introduction
 Welcome to the Data Scientist technical test.  
 Please follow the instructions below to complete the Git & GitHub exercise.  
-The goal is to evaluate your practical understanding of Git commands, branching, and collaboration workflows.
 
 ---
 
