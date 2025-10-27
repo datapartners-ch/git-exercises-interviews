@@ -21,3 +21,21 @@
 3. Open the pull request.
 4. Resolve the conflicts if present.
 5. Merge and delete branch `merging-test`.
+
+---
+
+## Level 3 — Python Programming Exercise
+
+Write a short Python solution directly inside the JSON file `exercises/python_task_01.json`.
+
+**Task**  
+Given a list of integers, return the squares of the even numbers, with no duplicates, sorted in ascending order.
+
+**Steps**
+1. Open `exercises/python_task_01.json`.
+2. Read the instructions inside the file.
+3. Write your Python code as a string in the `"solution_code"` field.
+4. Commit and push your changes.
+
+**Example**
+Input: `[1, 2, 2, 3, 4, 5]` → Output: `[4, 16]`
