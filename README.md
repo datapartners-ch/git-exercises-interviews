@@ -30,7 +30,7 @@ Demonstrate basic fluency with Git branching, commits, .gitignore, and opening a
 
 ---
 
-## Level 2 — Merge Conflict Resolution (Simplified, 10–15 min)
+## Level 2 — Merge Conflict Resolution
 
 ### Objective
 Show that you can handle a merge conflict when two people change the same file.
